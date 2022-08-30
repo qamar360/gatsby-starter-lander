@@ -15,8 +15,8 @@ const Header = () => (
       <div className="flex mt-4 sm:mt-0">
         <AnchorLink className="px-4" href="#features">
           Services
-        </AnchorLink>
-    </div>
+        </AnchorLink></div>
+   </div>
  </header>
 );
 
