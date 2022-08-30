@@ -54,10 +54,9 @@ const Index = () => (
           </div>
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Service Three</p>
+              <p className="font-semibold text-xl">CyberSecurity Services</p>
               <p className="mt-4">
-                An enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio
-                velna vitae auctor integer.
+                A hands-on demonstration of an attack scenario in which a malicious actor can bypass corporate network security controls and gain elevated privileges on critical systems.
               </p>
             </Card>
           </div>
