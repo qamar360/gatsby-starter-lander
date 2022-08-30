@@ -20,11 +20,7 @@ const Index = () => (
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
             Advanced and cutting-edge features make us highly regarded in the digital world of services
-          </p>
-          <p className="mt-8 md:mt-12">
-            <Button size="lg">Get Started</Button>
-          </p>
-         
+          </p>       
         </div>
         <div className="lg:w-1/2">
           <HeroImage />
