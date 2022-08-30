@@ -63,7 +63,7 @@ const Index = () => (
         </div>
       </div>
     </section>
-    <SplitSection
+   /* <SplitSection
       id="services"
       primarySlot={
         <div className="lg:pr-32 xl:pr-48">
@@ -120,7 +120,7 @@ const Index = () => (
           </div>
         </div>
       </div>
-    </section>
+    </section> */
     <section id="testimonials" className="py-20 lg:py-40">
       <div className="container mx-auto">
         <LabelText className="mb-8 text-gray-600 text-center">What customers are saying</LabelText>
