@@ -17,7 +17,7 @@ const Header = () => (
           Services
         </AnchorLink>
     </div>
-  </header>
+ </header>
 );
 
 export default Header;
